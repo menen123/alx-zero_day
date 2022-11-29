@@ -1,0 +1,2 @@
+the command line used to pull the git hub edit update is git pull origin with the branch name main.
+the command line used to create the file up_to_date is touch
